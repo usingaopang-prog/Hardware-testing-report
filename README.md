@@ -4,7 +4,7 @@
 
 ## 1. System Unit Testing
 
-### Box 1 — Pink
+### Box 1 
 
 **Components Tested:**
 - RAM

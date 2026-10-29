@@ -16,7 +16,7 @@ The HDD and RAM were extracted from one system unit and used to help the system 
 **Result:**
 The hardware components from the other system unit were used to ensure that the system unit of Computer One works.
 
----
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-29 at 17 21 44" src="https://github.com/user-attachments/assets/9ab6115e-7a5d-4356-9b4f-0839ab0a75f5" />
 
 ### Box 2
 
@@ -38,6 +38,8 @@ Further testing is required to confirm this by:
 - Testing a known-good motherboard in this unit.
 
 > **Note:** The original report had some missing notes regarding which components were removed.
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-29 at 17 21 42" src="https://github.com/user-attachments/assets/b1a8ef57-9a9e-4370-8bb7-42d655f3b116" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-29 at 17 21 43" src="https://github.com/user-attachments/assets/1d69a874-04a0-495b-9fcf-9e1e03436958" />
 
 ---
 
@@ -48,6 +50,7 @@ This unit has no hard drive.
 
 **Result:**
 The unit works perfectly.
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-29 at 17 21 45" src="https://github.com/user-attachments/assets/fc95f5a8-e219-42a5-9ba1-e5d791d74a41" />
 
 ---
 

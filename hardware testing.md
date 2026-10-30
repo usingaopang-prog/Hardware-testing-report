@@ -61,6 +61,8 @@ The unit works perfectly.
 | Keyboard 1 | Trend Tech | Pink | ✅ Works perfectly |
 | Keyboard 2 | Trend Tech | Blue | ✅ Works perfectly |
 | Keyboard 3 | Trend Tech | Green | ⚠️ Faulty — Esc key is missing |
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-30 at 09 13 09" src="https://github.com/user-attachments/assets/ea3fe5c2-3960-4b77-b9e2-53ba65ad8355" />
+<img width="960" height="1280" alt="WhatsApp Image 2026-10-30 at 09 13 10" src="https://github.com/user-attachments/assets/a4750505-6d41-45c2-a848-59016c393779" />
 
 ---
 
